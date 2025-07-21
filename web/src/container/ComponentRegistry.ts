@@ -1,4 +1,4 @@
-// import { CoreRegistry } from '@hexagonal/utils/registry';
+// import { CoreRegistry } from '@bigbyte/utils/registry';
 
 // let registry: CoreRegistry;
 

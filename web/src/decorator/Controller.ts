@@ -1,6 +1,6 @@
-import Logger from "@hexagonal/utils/logger";
-import { LIBRARY_NAME } from "@hexagonal/utils/constant";
-import { declareDecorator, executeDecorator } from "@hexagonal/utils/registry";
+import Logger from "@bigbyte/utils/logger";
+import { LIBRARY_NAME } from "@bigbyte/utils/constant";
+import { declareDecorator, executeDecorator } from "@bigbyte/utils/registry";
 
 import { DECORATOR_CONTROLLER_NAME } from "../constant";
 

@@ -1,5 +1,5 @@
-import { declareDecorator, executeDecorator } from "@hexagonal/utils/registry";
-import Logger from "@hexagonal/utils/logger";
+import { declareDecorator, executeDecorator } from "@bigbyte/utils/registry";
+import Logger from "@bigbyte/utils/logger";
 import { DECORATOR_GET_NAME } from "../../constant";
 import { currentController } from "../Controller";
 

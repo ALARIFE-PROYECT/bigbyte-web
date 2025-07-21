@@ -1,4 +1,4 @@
-import { Configuration } from "@hexagonal/utils/integration";
+import { Configuration } from "@bigbyte/utils/integration";
 import { ARGV_ACCESS_LOG_FILE, ARGV_ACCESS_LOG_FILE_SIZE_INTERVAL, ARGV_ACCESS_LOG_FILE_TIME_INTERVAL, ARGV_API_ROOT, ARGV_IP, ARGV_PORT, ARGV_PROTOCOL, ENV_ACCESS_LOG_FILE, ENV_ACCESS_LOG_FILE_SIZE_INTERVAL, ENV_ACCESS_LOG_FILE_TIME_INTERVAL, ENV_API_ROOT, ENV_IP, ENV_PORT, ENV_PROTOCOL } from "../constant";
 
 

@@ -1,5 +1,5 @@
 
-// import { MissingCoreInstanceRegistryError } from '@hexagonal/utils/registry';
+// import { MissingCoreInstanceRegistryError } from '@bigbyte/utils/registry';
 
 import "reflect-metadata";
 // import { setCoreRegistry } from '../service/Registry';
